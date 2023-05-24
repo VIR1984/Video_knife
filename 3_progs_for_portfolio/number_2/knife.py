@@ -8,7 +8,7 @@ import moviepy.editor
 
 
 
-bot_token = '6091235419:AAHpkb6-21fptGgcvz8em-dF1ZEpUC5L5hY'
+bot_token = 'YOUR_TOKEN'
 # Инициализация бота и диспетчера
 bot = Bot(token=bot_token)
 dp = Dispatcher(bot)
